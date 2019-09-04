@@ -39,3 +39,7 @@ optional arguments:
 `python pixiv50_scraw_multi_thread.py --today`
 
 ### 注意！由于该网站并非每日及时更新，所以today选项很多时候会失效，最好是在月末直接爬取整个月份或直接指定时间段使用。
+
+## 效果图
+
+![](https://tva1.sinaimg.cn/large/006y8mN6ly1g6n9cvkb8yj30u01rind5.jpg)
